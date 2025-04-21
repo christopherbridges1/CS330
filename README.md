@@ -1,4 +1,4 @@
-# CS330
+# CS330      Project was too large to use .Zip. so added items individually
 CS330 Module 8 
 
 How do I approach designing software?
